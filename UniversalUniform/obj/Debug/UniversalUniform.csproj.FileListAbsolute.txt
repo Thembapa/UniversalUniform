@@ -1,0 +1,9 @@
+C:\Themba\UJ 2018\IFM 3A\Project\UniversalUniform\UniversalUniform\bin\UniversalUniform.dll.config
+C:\Themba\UJ 2018\IFM 3A\Project\UniversalUniform\UniversalUniform\bin\UniversalUniform.dll
+C:\Themba\UJ 2018\IFM 3A\Project\UniversalUniform\UniversalUniform\bin\UniversalUniform.pdb
+C:\Themba\UJ 2018\IFM 3A\Project\UniversalUniform\UniversalUniform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Themba\UJ 2018\IFM 3A\Project\UniversalUniform\UniversalUniform\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Themba\UJ 2018\IFM 3A\Project\UniversalUniform\UniversalUniform\obj\Debug\UniversalUniform.csproj.CoreCompileInputs.cache
+C:\Themba\UJ 2018\IFM 3A\Project\UniversalUniform\UniversalUniform\obj\Debug\UniversalUniform.dll
+C:\Themba\UJ 2018\IFM 3A\Project\UniversalUniform\UniversalUniform\obj\Debug\UniversalUniform.pdb
+C:\Themba\UJ 2018\IFM 3A\Project\UniversalUniform\UniversalUniform\obj\Debug\UniversalUniform.csprojResolveAssemblyReference.cache

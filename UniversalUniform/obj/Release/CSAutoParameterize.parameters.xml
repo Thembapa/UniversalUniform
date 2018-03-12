@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="UniversalUniform.Properties.Settings.DBCon-Web.config Connection String" description="UniversalUniform.Properties.Settings.DBCon Connection String used in web.config by the application to access the database." defaultValue="Data Source=THEMBAP-PC;Initial Catalog=UniversalUniform;Persist Security Info=True;User ID=SystemUSer;Password=Teepee11@@" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Themba\\UJ\ 2018\\IFM\ 3A\\Project\\UniversalUniform\\UniversalUniform\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='UniversalUniform.Properties.Settings.DBCon']/@connectionString" />
+  </parameter>
+</parameters>
